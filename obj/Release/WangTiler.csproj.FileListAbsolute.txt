@@ -1,0 +1,6 @@
+C:\Users\hamis\Projects\WangTilerAndTextureTransfer\bin\Release\WangTiler.exe
+C:\Users\hamis\Projects\WangTilerAndTextureTransfer\obj\Release\WangTiler.csprojAssemblyReference.cache
+C:\Users\hamis\Projects\WangTilerAndTextureTransfer\obj\Release\WangTileCreator.WangTileForm.resources
+C:\Users\hamis\Projects\WangTilerAndTextureTransfer\obj\Release\WangTiler.csproj.GenerateResource.cache
+C:\Users\hamis\Projects\WangTilerAndTextureTransfer\obj\Release\WangTiler.csproj.CoreCompileInputs.cache
+C:\Users\hamis\Projects\WangTilerAndTextureTransfer\obj\Release\WangTiler.exe
